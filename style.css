@@ -79,13 +79,13 @@ box-shadow: 0 7px 15px 0 rgba(0, 0, 0, 0.5);
     height: 80vh;
     background-color: rgb(255, 255, 255);
     display: flex;
-    justify-content: center;
-    align-items: center     ;
 }
 
 .content1{
     height: 80vh;
-    width: 180vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center     ;
 }
 
 .content1>img{
